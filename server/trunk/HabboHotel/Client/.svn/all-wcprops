@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/server/trunk/HabboHotel/Client
+END
+ResponseOpcodes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/server/trunk/HabboHotel/Client/ResponseOpcodes.cs
+END
+ResponseOpcodesEnum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/server/trunk/HabboHotel/Client/ResponseOpcodesEnum.cs
+END
+ClientMessageHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/server/trunk/HabboHotel/Client/ClientMessageHandler.cs
+END
+GameClientManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/server/trunk/HabboHotel/Client/GameClientManager.cs
+END
+GameClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/server/trunk/HabboHotel/Client/GameClient.cs
+END
