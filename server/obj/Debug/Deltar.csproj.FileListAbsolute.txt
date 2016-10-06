@@ -3,3 +3,5 @@ C:\xampp\htdocs\BeefyEmu\server\trunk\bin\Debug\Deltar.pdb
 C:\xampp\htdocs\BeefyEmu\server\trunk\obj\Debug\ResolveAssemblyReference.cache
 C:\xampp\htdocs\BeefyEmu\server\trunk\obj\Debug\Deltar.exe
 C:\xampp\htdocs\BeefyEmu\server\trunk\obj\Debug\Deltar.pdb
+C:\Users\Alex\Documents\GitHub\iondeltar\server\obj\Debug\Deltar.exe
+C:\Users\Alex\Documents\GitHub\iondeltar\server\obj\Debug\Deltar.pdb
