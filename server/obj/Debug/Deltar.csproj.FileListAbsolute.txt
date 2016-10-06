@@ -5,3 +5,8 @@ C:\xampp\htdocs\BeefyEmu\server\trunk\obj\Debug\Deltar.exe
 C:\xampp\htdocs\BeefyEmu\server\trunk\obj\Debug\Deltar.pdb
 C:\Users\Alex\Documents\GitHub\iondeltar\server\obj\Debug\Deltar.exe
 C:\Users\Alex\Documents\GitHub\iondeltar\server\obj\Debug\Deltar.pdb
+C:\Users\Alex\Documents\GitHub\iondeltar\server\obj\Debug\Deltar.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\iondeltar\server\bin\Debug\Deltar.exe.config
+C:\Users\Alex\Documents\GitHub\iondeltar\server\bin\Debug\Deltar.exe
+C:\Users\Alex\Documents\GitHub\iondeltar\server\bin\Debug\Deltar.pdb
+C:\Users\Alex\Documents\GitHub\iondeltar\server\bin\Debug\MySql.Data.dll
